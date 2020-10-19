@@ -14,3 +14,7 @@ usethis::browse_github_pat()
 usethis::edit_r_environ()
 
 usethis::use_github()
+
+
+#Check if this thing is working 
+#also checking as i already commited this 
