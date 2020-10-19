@@ -7,3 +7,4 @@ use_git_config(user.name = "Thatgittyfeeling", user.email = "kieran.mccahon@dair
 
 #usethis::use_git()
 
+usethis::use_github()
